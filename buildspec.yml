@@ -13,7 +13,7 @@ phases:
 artifacts:
   files:
     - target/*.war
-  discard-paths: yes
+  discard-paths: no
 
 cache:
   paths:
